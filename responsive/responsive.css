@@ -1,0 +1,21 @@
+@media screen and (max-width: 1024px){
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 480px){
+    .wrapper {
+        height: 100%;
+    }
+    .k-flex{
+        margin-top: 12%;
+    }
+}
+@media screen and (max-width: 375px){
+
+}
+@media screen and (max-width: 360px){
+
+}
+@media screen and (max-width: 320px){
+
+}
